@@ -1,0 +1,3 @@
+/home/mirmik/project/raspi-imu-reader/CMakeFiles/rebuild_cache.dir
+/home/mirmik/project/raspi-imu-reader/CMakeFiles/raspi-imu-reader.dir
+/home/mirmik/project/raspi-imu-reader/CMakeFiles/edit_cache.dir

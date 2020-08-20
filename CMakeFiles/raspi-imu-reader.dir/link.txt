@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/raspi-imu-reader.dir/main.cpp.o  -o raspi-imu-reader 
